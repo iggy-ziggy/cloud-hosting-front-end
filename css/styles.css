@@ -899,6 +899,7 @@ a {
   }
 
   .footer .collapsible__content {
+    font-size: 2rem;
     opacity: 1;
     max-height: 100%;
   }
