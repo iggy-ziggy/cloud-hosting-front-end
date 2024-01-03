@@ -717,6 +717,11 @@ a {
   transform: translateY(5px);
 }
 
+.brand__image {
+  max-width: 200px;
+  width: 100%;
+}
+
 @media screen and (min-width: 768px) {
   .nav__toggler {
     display: none;
